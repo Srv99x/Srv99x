@@ -19,5 +19,3 @@ Hi 👋, I'm Sourav Chakraborty
 
 📫 Connect with me and check out my repositories below 👇
 
-![Your Stats](https://github-readme-stats.vercel.app/api?username=Srv99x&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Srv99x&layout=compact&theme=radical)
