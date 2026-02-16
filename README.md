@@ -32,4 +32,5 @@ I am a passionate computer science student looking to bridge the gap between int
 - 👯 I’m looking to collaborate on **Open Source projects and Hackathons**
 - 🥅 2026 Goals: **Master Machine Learning pipelines and build scalable web apps**
 - ⚡ Fun fact: **I love debugging code almost as much as writing it!**
-
+- 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Srv99x&theme=highcontrast&hide_border=true)
