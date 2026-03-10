@@ -70,14 +70,13 @@ AI symptom analyzer powered by **Google Gemini 2.5 Flash**. Returns structured c
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Srv99x&show_icons=true&theme=react&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srv99x&layout=compact&theme=react&hide_border=true&langs_count=6" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=Srv99x&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/Srv99x)
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Srv99x&theme=react&hide_border=true)](https://git.io/streak-stats)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Srv99x&theme=react-dark&hide_border=true&area=true)](https://github.com/Srv99x)
 
 </div>
 
