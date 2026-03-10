@@ -1,38 +1,99 @@
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srv99x/) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sourav4298532@gmail.com)
+<div align="center">
 
-### 💻 Tech Stack:
+# Sourav Chakraborty
 
-**Languages & Core:**
-[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+**B.Tech CSE · Guwahati, Assam**
 
-**Web Development:**
-[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+Building AI-powered full-stack applications — from deepfake audio detection to intelligent health tools.
 
-**AI / ML & Tools:**
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srv99x/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sourav4298532@gmail.com)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-2573-5210)
 
-# 💫 About Me:
+</div>
 
-Hi 👋, I'm **Sourav Chakraborty**!
+---
 
-🎓 **B.Tech CSE Student** | 🤖 **AI/ML Enthusiast** | 💻 **Web Developer**
+## About
 
-I am a passionate computer science student looking to bridge the gap between intelligent algorithms and modern web applications. I love solving complex problems with code and am constantly learning new technologies.
+I'm a CSE student who bridges the gap between AI/ML research and production web applications. My work sits at the intersection of deep learning, RESTful APIs, and modern frontend — I don't just train models, I ship them.
 
-- 🔭 I’m currently working on **Full Stack Web Development & AI integration**
-- 🌱 I’m currently learning **Advanced Data Structures, Deep Learning, and System Design**
-- 👯 I’m looking to collaborate on **Open Source projects and Hackathons**
-- 🥅 2026 Goals: **Master Machine Learning pipelines and build scalable web apps**
-- ⚡ Fun fact: **I love debugging code almost as much as writing it!**
+Currently focused on: **LLM-powered applications · Audio AI · Full-stack TypeScript**
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Srv99x&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Srv99x&theme=highcontrast&hide_border=true)
+## Featured Projects
+
+### 🎙️ [AI Voice Detector](https://github.com/Srv99x/voice-detection-ai)
+Deepfake audio detection using Meta's **Wav2Vec2-Large-XLSR-53** + Logistic Regression classifier. Built for a CyberSecurity Hackathon — live on Hugging Face Spaces, React frontend on Vercel.
+`Python` `FastAPI` `PyTorch` `Wav2Vec2` `Docker`
+
+### 🩺 [MediSense AI](https://github.com/Srv99x/medisense-ai-app)
+AI symptom analyzer powered by **Google Gemini 2.5 Flash**. Returns structured condition cards with probability scores and urgency-level triage — not just raw text. Deployed on Vercel + Render.
+`TypeScript` `React` `FastAPI` `Gemini API` `shadcn/ui`
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Backend & AI**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Srv99x&show_icons=true&theme=react&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srv99x&layout=compact&theme=react&hide_border=true&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Srv99x&theme=react&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 2026 Goals
+
+- Ship one more production-grade original AI project
+- Contribute to an open source ML or developer tools repo
+- Master system design fundamentals for SDE interviews
+- Secure a software engineering / AI internship
+
+---
+
+<div align="center">
+
+*Open to internships, collaborations, and hackathons — reach out on [LinkedIn](https://www.linkedin.com/in/srv99x/)*
+
+</div>
