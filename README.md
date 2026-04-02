@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Capsule Render Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:70a5fd&height=200&section=header&text=Sourav%20Chakraborty&fontSize=50&fontColor=70a5fd&animation=fadeIn&fontAlignY=38&desc=AI%20Backend%20Engineer%20%7C%20B.Tech%20CSE%20(AI%20%26%20DS)&descAlignY=60&descColor=a9b1d6" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:1a1b27,100:70a5fd&amp;height=200&amp;section=header&amp;text=Sourav%20Chakraborty&amp;fontSize=50&amp;fontColor=70a5fd&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=AI%20Backend%20Engineer%20%7C%20B.Tech%20CSE%20(AI%20%26%20DS)&amp;descAlignY=60&amp;descColor=a9b1d6" />
 
 <!-- Typing SVG -->
 <a href="https://github.com/Srv99x">
@@ -11,9 +11,9 @@
 <br/>
 
 <!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=Srv99x&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Srv99x&amp;label=Profile%20Views&amp;color=70a5fd&amp;style=flat-square" alt="Profile Views" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/Srv99x?label=Followers&style=flat-square&color=70a5fd" alt="Followers" />
+<img src="https://img.shields.io/github/followers/Srv99x?label=Followers&amp;style=flat-square&amp;color=70a5fd" alt="Followers" />
 
 </div>
 
@@ -102,10 +102,11 @@ AI symptom analyzer powered by **Google Gemini 2.5 Flash**. Returns structured c
 - 🔨 Rebuild MediSense AI independently (no vibe-coding)
 - 🌍 Contribute to an open-source ML or developer tools project
 - 📜 Complete IBM AI/DS + Azure MLOps certifications
+
 ---
 
 <!-- Capsule Render Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,50:1a1b27,100:0d1117&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:70a5fd,50:1a1b27,100:0d1117&amp;height=120&amp;section=footer" />
 
 <div align="center">
 
