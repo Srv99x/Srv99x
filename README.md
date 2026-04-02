@@ -1,13 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,1a1b27,70a5fd&height=200&section=header&text=Sourav%20Chakraborty&fontSize=50&fontColor=70a5fd&animation=fadeIn&fontAlignY=38&desc=AI%20Backend%20Engineer%20%7C%20B.Tech%20CSE%20(AI%20%26%20DS)&descAlignY=60&descColor=a9b1d6" />
+<!-- Capsule Render Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:70a5fd&height=200&section=header&text=Sourav%20Chakraborty&fontSize=50&fontColor=70a5fd&animation=fadeIn&fontAlignY=38&desc=AI%20Backend%20Engineer%20%7C%20B.Tech%20CSE%20(AI%20%2B%20DS)&descAlignY=60&descColor=a9b1d6" />
 
+<!-- Typing SVG -->
 <a href="https://github.com/Srv99x">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=650&lines=AI+Backend+Engineer+%F0%9F%A4%96;B.Tech+CSE+(AI+%26+DS)+%F0%9F%8E%93;MLOps+Enthusiast+%7C+DSA+in+C%2B%2B;Deepfake+Detection+%7C+Health+AI;Building+AI+at+Production+Scale+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
+<!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=Srv99x&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile Views" />
 &nbsp;
 <img src="https://img.shields.io/github/followers/Srv99x?label=Followers&style=flat-square&color=70a5fd" alt="Followers" />
@@ -51,7 +54,6 @@ AI symptom analyzer powered by **Google Gemini 2.5 Flash**. Returns structured c
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 **AI / ML**
 
@@ -103,7 +105,8 @@ AI symptom analyzer powered by **Google Gemini 2.5 Flash**. Returns structured c
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=70a5fd,1a1b27,0d1117&height=120&section=footer" />
+<!-- Capsule Render Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,50:1a1b27,100:0d1117&height=120&section=footer" />
 
 <div align="center">
 
