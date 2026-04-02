@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:70a5fd&height=200&section=header&text=Sourav%20Chakraborty&fontSize=50&fontColor=70a5fd&animation=fadeIn&fontAlignY=38&desc=AI%20Backend%20Engineer%20%7C%20B.Tech%20CSE%20(AI%20%26%20DS)&descAlignY=60&descColor=a9b1d6" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,1a1b27,70a5fd&height=200&section=header&text=Sourav%20Chakraborty&fontSize=50&fontColor=70a5fd&animation=fadeIn&fontAlignY=38&desc=AI%20Backend%20Engineer%20%7C%20B.Tech%20CSE%20(AI%20%26%20DS)&descAlignY=60&descColor=a9b1d6" />
 
 <a href="https://github.com/Srv99x">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=650&lines=AI+Backend+Engineer+%F0%9F%A4%96;B.Tech+CSE+(AI+%26+DS)+%F0%9F%8E%93;MLOps+Enthusiast+%7C+DSA+in+C%2B%2B;Deepfake+Detection+%7C+Health+AI;Building+AI+at+Production+Scale+%F0%9F%9A%80" alt="Typing SVG" />
@@ -103,7 +103,7 @@ AI symptom analyzer powered by **Google Gemini 2.5 Flash**. Returns structured c
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,50:1a1b27,100:0d1117&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=70a5fd,1a1b27,0d1117&height=120&section=footer" />
 
 <div align="center">
 
