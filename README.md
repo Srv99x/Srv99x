@@ -31,7 +31,7 @@ AI & Data Science undergrad at **Assam Down Town University, Guwahati** (Batch 2
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sourav4298532@gmail.com)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-2573-5210)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/Srv99x)
-[![@srv99x's Holopin board](https://holopin.io/api/user/board?user=Srv99x)](https://holopin.io/@Srv99x)
+[![@srv99x's Holopin board](https://holopin.io/api/user/board?user=srv99x)](https://holopin.io/@srv99x)
 
 ---
 
